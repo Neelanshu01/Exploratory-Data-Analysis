@@ -29,7 +29,7 @@ To overcome the challenge mentioned above, we had to perform data cleaning where
 After this the data was in a condition to be worked on.
 
 
-![Screenshot_20220612-192627__01](https://github.com/AashayBharadwaj/Exploratory_Data_Analysis/blob/main/ERD_.jpg)
+![Screenshot_20220612-192627__01](https://github.com/Neelanshu01/Exploratory-Data-Analysis/blob/main/ERD_.pdf)
 
 
 
